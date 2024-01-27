@@ -8,7 +8,7 @@ body, h1, h2, p {
 header {
 	height: 100vh;
 	position: relative;
-	background: #0e131c url("../img/main_bg.jpg") no-repeat center center fixed;
+	background: #0e131c url("https://burst.shopifycdn.com/photos/cleaning-supply-wood-flatlay.jpg?width=1000&format=pjpg&exif=0&iptc=0") no-repeat center center fixed;
 	background-size: cover;
 }
 
